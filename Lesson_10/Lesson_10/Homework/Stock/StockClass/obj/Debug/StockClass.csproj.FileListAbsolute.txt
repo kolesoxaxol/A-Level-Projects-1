@@ -1,0 +1,6 @@
+E:\C#\Projects\A-Level\Lesson 11\Homework\Stock\StockClass\bin\Debug\StockClass.dll
+E:\C#\Projects\A-Level\Lesson 11\Homework\Stock\StockClass\bin\Debug\StockClass.pdb
+E:\C#\Projects\A-Level\Lesson 11\Homework\Stock\StockClass\obj\Debug\StockClass.csprojAssemblyReference.cache
+E:\C#\Projects\A-Level\Lesson 11\Homework\Stock\StockClass\obj\Debug\StockClass.csproj.CoreCompileInputs.cache
+E:\C#\Projects\A-Level\Lesson 11\Homework\Stock\StockClass\obj\Debug\StockClass.dll
+E:\C#\Projects\A-Level\Lesson 11\Homework\Stock\StockClass\obj\Debug\StockClass.pdb

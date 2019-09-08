@@ -1,0 +1,6 @@
+E:\C#\Projects\A-Level\Lesson 11\Homework\Game\GameClass\bin\Debug\GameClass.dll
+E:\C#\Projects\A-Level\Lesson 11\Homework\Game\GameClass\bin\Debug\GameClass.pdb
+E:\C#\Projects\A-Level\Lesson 11\Homework\Game\GameClass\obj\Debug\GameClass.csprojAssemblyReference.cache
+E:\C#\Projects\A-Level\Lesson 11\Homework\Game\GameClass\obj\Debug\GameClass.csproj.CoreCompileInputs.cache
+E:\C#\Projects\A-Level\Lesson 11\Homework\Game\GameClass\obj\Debug\GameClass.dll
+E:\C#\Projects\A-Level\Lesson 11\Homework\Game\GameClass\obj\Debug\GameClass.pdb

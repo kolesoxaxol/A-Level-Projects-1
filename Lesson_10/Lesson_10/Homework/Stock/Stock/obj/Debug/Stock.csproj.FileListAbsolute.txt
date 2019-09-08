@@ -1,0 +1,10 @@
+E:\C#\Projects\A-Level\Lesson 11\Homework\Stock\Stock\bin\Debug\Stock.exe.config
+E:\C#\Projects\A-Level\Lesson 11\Homework\Stock\Stock\bin\Debug\Stock.exe
+E:\C#\Projects\A-Level\Lesson 11\Homework\Stock\Stock\bin\Debug\Stock.pdb
+E:\C#\Projects\A-Level\Lesson 11\Homework\Stock\Stock\bin\Debug\StockClass.dll
+E:\C#\Projects\A-Level\Lesson 11\Homework\Stock\Stock\bin\Debug\StockClass.pdb
+E:\C#\Projects\A-Level\Lesson 11\Homework\Stock\Stock\obj\Debug\Stock.csprojAssemblyReference.cache
+E:\C#\Projects\A-Level\Lesson 11\Homework\Stock\Stock\obj\Debug\Stock.csproj.CoreCompileInputs.cache
+E:\C#\Projects\A-Level\Lesson 11\Homework\Stock\Stock\obj\Debug\Stock.csproj.CopyComplete
+E:\C#\Projects\A-Level\Lesson 11\Homework\Stock\Stock\obj\Debug\Stock.exe
+E:\C#\Projects\A-Level\Lesson 11\Homework\Stock\Stock\obj\Debug\Stock.pdb
