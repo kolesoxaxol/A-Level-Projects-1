@@ -1,0 +1,10 @@
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task_3\Task_3\bin\Debug\Task_3.exe.config
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task_3\Task_3\bin\Debug\Task_3.exe
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task_3\Task_3\bin\Debug\Task_3.pdb
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task_3\Task_3\bin\Debug\ModelLibrary.dll
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task_3\Task_3\bin\Debug\ModelLibrary.pdb
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task_3\Task_3\obj\Debug\Task_3.csprojAssemblyReference.cache
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task_3\Task_3\obj\Debug\Task_3.csproj.CoreCompileInputs.cache
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task_3\Task_3\obj\Debug\Task_3.csproj.CopyComplete
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task_3\Task_3\obj\Debug\Task_3.exe
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task_3\Task_3\obj\Debug\Task_3.pdb
