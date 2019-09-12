@@ -1,0 +1,20 @@
+D:\Lesson 13\Course\Task 1\Task 1\bin\Debug\Task 1.exe.config
+D:\Lesson 13\Course\Task 1\Task 1\bin\Debug\Task 1.exe
+D:\Lesson 13\Course\Task 1\Task 1\bin\Debug\Task 1.pdb
+D:\Lesson 13\Course\Task 1\Task 1\bin\Debug\ModelLibrary.dll
+D:\Lesson 13\Course\Task 1\Task 1\bin\Debug\ModelLibrary.pdb
+D:\Lesson 13\Course\Task 1\Task 1\obj\Debug\Task 1.csprojAssemblyReference.cache
+D:\Lesson 13\Course\Task 1\Task 1\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
+D:\Lesson 13\Course\Task 1\Task 1\obj\Debug\Task 1.csproj.CopyComplete
+D:\Lesson 13\Course\Task 1\Task 1\obj\Debug\Task 1.exe
+D:\Lesson 13\Course\Task 1\Task 1\obj\Debug\Task 1.pdb
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task 1\Task 1\bin\Debug\Task 1.exe.config
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task 1\Task 1\bin\Debug\Task 1.exe
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task 1\Task 1\bin\Debug\Task 1.pdb
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task 1\Task 1\bin\Debug\ModelLibrary.dll
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task 1\Task 1\bin\Debug\ModelLibrary.pdb
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task 1\Task 1\obj\Debug\Task 1.csprojAssemblyReference.cache
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task 1\Task 1\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task 1\Task 1\obj\Debug\Task 1.csproj.CopyComplete
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task 1\Task 1\obj\Debug\Task 1.exe
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task 1\Task 1\obj\Debug\Task 1.pdb

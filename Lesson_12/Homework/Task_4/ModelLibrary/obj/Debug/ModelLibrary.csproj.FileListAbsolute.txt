@@ -1,0 +1,6 @@
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task_4\ModelLibrary\bin\Debug\ModelLibrary.dll
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task_4\ModelLibrary\bin\Debug\ModelLibrary.pdb
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task_4\ModelLibrary\obj\Debug\ModelLibrary.csprojAssemblyReference.cache
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task_4\ModelLibrary\obj\Debug\ModelLibrary.csproj.CoreCompileInputs.cache
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task_4\ModelLibrary\obj\Debug\ModelLibrary.dll
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task_4\ModelLibrary\obj\Debug\ModelLibrary.pdb

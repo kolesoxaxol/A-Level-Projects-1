@@ -1,0 +1,6 @@
+E:\C#\Projects\A-Level\Lesson_12\Homework\Taks_5\Flower\bin\Debug\Flower.dll
+E:\C#\Projects\A-Level\Lesson_12\Homework\Taks_5\Flower\bin\Debug\Flower.pdb
+E:\C#\Projects\A-Level\Lesson_12\Homework\Taks_5\Flower\obj\Debug\Flower.csprojAssemblyReference.cache
+E:\C#\Projects\A-Level\Lesson_12\Homework\Taks_5\Flower\obj\Debug\Flower.csproj.CoreCompileInputs.cache
+E:\C#\Projects\A-Level\Lesson_12\Homework\Taks_5\Flower\obj\Debug\Flower.dll
+E:\C#\Projects\A-Level\Lesson_12\Homework\Taks_5\Flower\obj\Debug\Flower.pdb

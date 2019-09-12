@@ -1,0 +1,12 @@
+D:\Lesson 13\Course\Task 1\ModelLibrary\bin\Debug\ModelLibrary.dll
+D:\Lesson 13\Course\Task 1\ModelLibrary\bin\Debug\ModelLibrary.pdb
+D:\Lesson 13\Course\Task 1\ModelLibrary\obj\Debug\ModelLibrary.csprojAssemblyReference.cache
+D:\Lesson 13\Course\Task 1\ModelLibrary\obj\Debug\ModelLibrary.csproj.CoreCompileInputs.cache
+D:\Lesson 13\Course\Task 1\ModelLibrary\obj\Debug\ModelLibrary.dll
+D:\Lesson 13\Course\Task 1\ModelLibrary\obj\Debug\ModelLibrary.pdb
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task 1\ModelLibrary\bin\Debug\ModelLibrary.dll
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task 1\ModelLibrary\bin\Debug\ModelLibrary.pdb
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task 1\ModelLibrary\obj\Debug\ModelLibrary.csprojAssemblyReference.cache
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task 1\ModelLibrary\obj\Debug\ModelLibrary.csproj.CoreCompileInputs.cache
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task 1\ModelLibrary\obj\Debug\ModelLibrary.dll
+E:\C#\Projects\A-Level\Lesson_12\Homework\Task 1\ModelLibrary\obj\Debug\ModelLibrary.pdb

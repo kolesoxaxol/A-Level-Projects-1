@@ -1,0 +1,10 @@
+E:\C#\Projects\A-Level\Lesson_12\Homework\Taks_5\Task 5\bin\Debug\Task 5.exe.config
+E:\C#\Projects\A-Level\Lesson_12\Homework\Taks_5\Task 5\bin\Debug\Task 5.exe
+E:\C#\Projects\A-Level\Lesson_12\Homework\Taks_5\Task 5\bin\Debug\Task 5.pdb
+E:\C#\Projects\A-Level\Lesson_12\Homework\Taks_5\Task 5\bin\Debug\Flower.dll
+E:\C#\Projects\A-Level\Lesson_12\Homework\Taks_5\Task 5\bin\Debug\Flower.pdb
+E:\C#\Projects\A-Level\Lesson_12\Homework\Taks_5\Task 5\obj\Debug\Task 5.csprojAssemblyReference.cache
+E:\C#\Projects\A-Level\Lesson_12\Homework\Taks_5\Task 5\obj\Debug\Task 5.csproj.CoreCompileInputs.cache
+E:\C#\Projects\A-Level\Lesson_12\Homework\Taks_5\Task 5\obj\Debug\Task 5.csproj.CopyComplete
+E:\C#\Projects\A-Level\Lesson_12\Homework\Taks_5\Task 5\obj\Debug\Task 5.exe
+E:\C#\Projects\A-Level\Lesson_12\Homework\Taks_5\Task 5\obj\Debug\Task 5.pdb
