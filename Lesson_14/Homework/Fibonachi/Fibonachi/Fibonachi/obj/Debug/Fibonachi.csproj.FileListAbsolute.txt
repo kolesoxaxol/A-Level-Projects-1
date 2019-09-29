@@ -1,0 +1,7 @@
+E:\C#\Projects\A-Level\Lesson_14\Homework\Fibonachi\Fibonachi\Fibonachi\bin\Debug\Fibonachi.exe.config
+E:\C#\Projects\A-Level\Lesson_14\Homework\Fibonachi\Fibonachi\Fibonachi\bin\Debug\Fibonachi.exe
+E:\C#\Projects\A-Level\Lesson_14\Homework\Fibonachi\Fibonachi\Fibonachi\bin\Debug\Fibonachi.pdb
+E:\C#\Projects\A-Level\Lesson_14\Homework\Fibonachi\Fibonachi\Fibonachi\obj\Debug\Fibonachi.csprojAssemblyReference.cache
+E:\C#\Projects\A-Level\Lesson_14\Homework\Fibonachi\Fibonachi\Fibonachi\obj\Debug\Fibonachi.csproj.CoreCompileInputs.cache
+E:\C#\Projects\A-Level\Lesson_14\Homework\Fibonachi\Fibonachi\Fibonachi\obj\Debug\Fibonachi.exe
+E:\C#\Projects\A-Level\Lesson_14\Homework\Fibonachi\Fibonachi\Fibonachi\obj\Debug\Fibonachi.pdb

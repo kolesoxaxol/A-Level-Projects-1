@@ -1,0 +1,14 @@
+D:\Lesson 14\Course\Lesson_14\bin\Debug\Lesson_14.exe.config
+D:\Lesson 14\Course\Lesson_14\bin\Debug\Lesson_14.exe
+D:\Lesson 14\Course\Lesson_14\bin\Debug\Lesson_14.pdb
+D:\Lesson 14\Course\Lesson_14\obj\Debug\Lesson_14.csprojAssemblyReference.cache
+D:\Lesson 14\Course\Lesson_14\obj\Debug\Lesson_14.csproj.CoreCompileInputs.cache
+D:\Lesson 14\Course\Lesson_14\obj\Debug\Lesson_14.exe
+D:\Lesson 14\Course\Lesson_14\obj\Debug\Lesson_14.pdb
+E:\C#\Projects\A-Level\Lesson_14\Course\Lesson_14\bin\Debug\Lesson_14.exe.config
+E:\C#\Projects\A-Level\Lesson_14\Course\Lesson_14\bin\Debug\Lesson_14.exe
+E:\C#\Projects\A-Level\Lesson_14\Course\Lesson_14\bin\Debug\Lesson_14.pdb
+E:\C#\Projects\A-Level\Lesson_14\Course\Lesson_14\obj\Debug\Lesson_14.csprojAssemblyReference.cache
+E:\C#\Projects\A-Level\Lesson_14\Course\Lesson_14\obj\Debug\Lesson_14.csproj.CoreCompileInputs.cache
+E:\C#\Projects\A-Level\Lesson_14\Course\Lesson_14\obj\Debug\Lesson_14.exe
+E:\C#\Projects\A-Level\Lesson_14\Course\Lesson_14\obj\Debug\Lesson_14.pdb

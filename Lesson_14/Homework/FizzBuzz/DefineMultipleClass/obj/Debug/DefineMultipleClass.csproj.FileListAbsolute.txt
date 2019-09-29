@@ -1,0 +1,18 @@
+E:\C#\Projects\A-Level\2 Lesson\Homework\FizzBuzz\DefineMultipleClass\bin\Debug\DefineMultipleClass.dll
+E:\C#\Projects\A-Level\2 Lesson\Homework\FizzBuzz\DefineMultipleClass\bin\Debug\DefineMultipleClass.pdb
+E:\C#\Projects\A-Level\2 Lesson\Homework\FizzBuzz\DefineMultipleClass\obj\Debug\DefineMultipleClass.csprojAssemblyReference.cache
+E:\C#\Projects\A-Level\2 Lesson\Homework\FizzBuzz\DefineMultipleClass\obj\Debug\DefineMultipleClass.csproj.CoreCompileInputs.cache
+E:\C#\Projects\A-Level\2 Lesson\Homework\FizzBuzz\DefineMultipleClass\obj\Debug\DefineMultipleClass.dll
+E:\C#\Projects\A-Level\2 Lesson\Homework\FizzBuzz\DefineMultipleClass\obj\Debug\DefineMultipleClass.pdb
+E:\C#\Projects\A-Level\Lesson_14\Homework\FizzBuzz\DefineMultipleClass\bin\Debug\DefineMultipleClass.dll
+E:\C#\Projects\A-Level\Lesson_14\Homework\FizzBuzz\DefineMultipleClass\bin\Debug\DefineMultipleClass.pdb
+E:\C#\Projects\A-Level\Lesson_14\Homework\FizzBuzz\DefineMultipleClass\obj\Debug\DefineMultipleClass.csprojAssemblyReference.cache
+E:\C#\Projects\A-Level\Lesson_14\Homework\FizzBuzz\DefineMultipleClass\obj\Debug\DefineMultipleClass.csproj.CoreCompileInputs.cache
+E:\C#\Projects\A-Level\Lesson_14\Homework\FizzBuzz\DefineMultipleClass\obj\Debug\DefineMultipleClass.dll
+E:\C#\Projects\A-Level\Lesson_14\Homework\FizzBuzz\DefineMultipleClass\obj\Debug\DefineMultipleClass.pdb
+E:\C#\Projects\back\Lesson_14\Homework\FizzBuzz\DefineMultipleClass\bin\Debug\DefineMultipleClass.dll
+E:\C#\Projects\back\Lesson_14\Homework\FizzBuzz\DefineMultipleClass\bin\Debug\DefineMultipleClass.pdb
+E:\C#\Projects\back\Lesson_14\Homework\FizzBuzz\DefineMultipleClass\obj\Debug\DefineMultipleClass.csprojAssemblyReference.cache
+E:\C#\Projects\back\Lesson_14\Homework\FizzBuzz\DefineMultipleClass\obj\Debug\DefineMultipleClass.csproj.CoreCompileInputs.cache
+E:\C#\Projects\back\Lesson_14\Homework\FizzBuzz\DefineMultipleClass\obj\Debug\DefineMultipleClass.dll
+E:\C#\Projects\back\Lesson_14\Homework\FizzBuzz\DefineMultipleClass\obj\Debug\DefineMultipleClass.pdb
