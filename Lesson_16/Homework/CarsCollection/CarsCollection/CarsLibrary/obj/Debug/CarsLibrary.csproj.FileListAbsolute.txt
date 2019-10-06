@@ -1,0 +1,6 @@
+E:\C#\Projects\A-Level\Lesson_16\Homework\CarsCollection\CarsCollection\CarsLibrary\bin\Debug\CarsLibrary.dll
+E:\C#\Projects\A-Level\Lesson_16\Homework\CarsCollection\CarsCollection\CarsLibrary\bin\Debug\CarsLibrary.pdb
+E:\C#\Projects\A-Level\Lesson_16\Homework\CarsCollection\CarsCollection\CarsLibrary\obj\Debug\CarsLibrary.csprojAssemblyReference.cache
+E:\C#\Projects\A-Level\Lesson_16\Homework\CarsCollection\CarsCollection\CarsLibrary\obj\Debug\CarsLibrary.csproj.CoreCompileInputs.cache
+E:\C#\Projects\A-Level\Lesson_16\Homework\CarsCollection\CarsCollection\CarsLibrary\obj\Debug\CarsLibrary.dll
+E:\C#\Projects\A-Level\Lesson_16\Homework\CarsCollection\CarsCollection\CarsLibrary\obj\Debug\CarsLibrary.pdb

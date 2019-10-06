@@ -1,0 +1,10 @@
+E:\C#\Projects\A-Level\Lesson_16\Homework\CarsCollection\CarsCollection\CarsCollection\bin\Debug\CarsCollection.exe.config
+E:\C#\Projects\A-Level\Lesson_16\Homework\CarsCollection\CarsCollection\CarsCollection\bin\Debug\CarsCollection.exe
+E:\C#\Projects\A-Level\Lesson_16\Homework\CarsCollection\CarsCollection\CarsCollection\bin\Debug\CarsCollection.pdb
+E:\C#\Projects\A-Level\Lesson_16\Homework\CarsCollection\CarsCollection\CarsCollection\bin\Debug\CarsLibrary.dll
+E:\C#\Projects\A-Level\Lesson_16\Homework\CarsCollection\CarsCollection\CarsCollection\bin\Debug\CarsLibrary.pdb
+E:\C#\Projects\A-Level\Lesson_16\Homework\CarsCollection\CarsCollection\CarsCollection\obj\Debug\CarsCollection.csprojAssemblyReference.cache
+E:\C#\Projects\A-Level\Lesson_16\Homework\CarsCollection\CarsCollection\CarsCollection\obj\Debug\CarsCollection.csproj.CoreCompileInputs.cache
+E:\C#\Projects\A-Level\Lesson_16\Homework\CarsCollection\CarsCollection\CarsCollection\obj\Debug\CarsCollection.csproj.CopyComplete
+E:\C#\Projects\A-Level\Lesson_16\Homework\CarsCollection\CarsCollection\CarsCollection\obj\Debug\CarsCollection.exe
+E:\C#\Projects\A-Level\Lesson_16\Homework\CarsCollection\CarsCollection\CarsCollection\obj\Debug\CarsCollection.pdb
