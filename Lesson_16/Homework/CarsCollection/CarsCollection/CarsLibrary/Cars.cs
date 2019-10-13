@@ -24,7 +24,7 @@ namespace CarsLibrary
             _index++;
         }
 
-        private int _position = -1;
+        private int _position = -1; // перенеси это в раздел где ты обьявляешь переменные не миксуй тебе самому будет легче потом искать
 
         public bool MoveNext()
         {
